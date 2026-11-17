@@ -5,7 +5,7 @@
 	(uuid "73fbe87f-3928-49c2-bf87-839d907c6aef")
 	(paper "A4")
 	(title_block
-		(title "NCV8200HV Clone")
+		(title "Nixie HV power supply alternative 2")
 		(date "2020-08-16")
 		(rev "Rev 002")
 		(company "Ian Sparkes")
@@ -3547,7 +3547,7 @@
 			(uuid "f253f7fd-454d-487d-9ea8-f04021c194d3")
 		)
 		(instances
-			(project "NCV8200HV"
+			(project "NixiePS2"
 				(path "/73fbe87f-3928-49c2-bf87-839d907c6aef"
 					(reference "#FLG01")
 					(unit 1)
@@ -3625,7 +3625,7 @@
 			(uuid "2b6db2ac-e442-4123-8ddd-e685abc5198e")
 		)
 		(instances
-			(project "NCV8200HV"
+			(project "NixiePS2"
 				(path "/73fbe87f-3928-49c2-bf87-839d907c6aef"
 					(reference "J1")
 					(unit 1)
@@ -3716,7 +3716,7 @@
 			(uuid "c4f1e688-9d93-49e6-8e8a-783278115dc3")
 		)
 		(instances
-			(project "NCV8200HV"
+			(project "NixiePS2"
 				(path "/73fbe87f-3928-49c2-bf87-839d907c6aef"
 					(reference "C17")
 					(unit 1)
@@ -3805,7 +3805,7 @@
 			(uuid "efc86a73-5d0b-413c-b755-5ece547a6e05")
 		)
 		(instances
-			(project "NCV8200HV"
+			(project "NixiePS2"
 				(path "/73fbe87f-3928-49c2-bf87-839d907c6aef"
 					(reference "R8")
 					(unit 1)
@@ -3908,7 +3908,7 @@
 			(uuid "21df4c06-f9eb-496b-9765-40d02dbec7a8")
 		)
 		(instances
-			(project "NCV8200HV"
+			(project "NixiePS2"
 				(path "/73fbe87f-3928-49c2-bf87-839d907c6aef"
 					(reference "C15")
 					(unit 1)
@@ -3997,7 +3997,7 @@
 			(uuid "07fa7ddb-4cb4-434a-b00c-5858d217f21d")
 		)
 		(instances
-			(project "NCV8200HV"
+			(project "NixiePS2"
 				(path "/73fbe87f-3928-49c2-bf87-839d907c6aef"
 					(reference "R9")
 					(unit 1)
@@ -4088,7 +4088,7 @@
 			(uuid "1c2fa824-308a-483b-9034-8bc7cdc07b75")
 		)
 		(instances
-			(project "NCV8200HV"
+			(project "NixiePS2"
 				(path "/73fbe87f-3928-49c2-bf87-839d907c6aef"
 					(reference "C18")
 					(unit 1)
@@ -4177,7 +4177,7 @@
 			(uuid "6fd568e7-85ba-4408-bb03-0c141307198c")
 		)
 		(instances
-			(project "NCV8200HV"
+			(project "NixiePS2"
 				(path "/73fbe87f-3928-49c2-bf87-839d907c6aef"
 					(reference "R11")
 					(unit 1)
@@ -4266,7 +4266,7 @@
 			(uuid "09371e45-0859-4994-b0c4-729db2f37b54")
 		)
 		(instances
-			(project "NCV8200HV"
+			(project "NixiePS2"
 				(path "/73fbe87f-3928-49c2-bf87-839d907c6aef"
 					(reference "D4")
 					(unit 1)
@@ -4358,7 +4358,7 @@
 			(uuid "32fdcd49-f64a-4262-89ba-ecf96e74d198")
 		)
 		(instances
-			(project "NCV8200HV"
+			(project "NixiePS2"
 				(path "/73fbe87f-3928-49c2-bf87-839d907c6aef"
 					(reference "C19")
 					(unit 1)
@@ -4447,7 +4447,7 @@
 			(uuid "c297680d-10d5-4d79-86c9-b24aab7ae6ef")
 		)
 		(instances
-			(project "NCV8200HV"
+			(project "NixiePS2"
 				(path "/73fbe87f-3928-49c2-bf87-839d907c6aef"
 					(reference "R10")
 					(unit 1)
@@ -4525,7 +4525,7 @@
 			(uuid "b583305f-1632-48e5-b71a-09834e4712d2")
 		)
 		(instances
-			(project "NCV8200HV"
+			(project "NixiePS2"
 				(path "/73fbe87f-3928-49c2-bf87-839d907c6aef"
 					(reference "#GND04")
 					(unit 1)
@@ -4600,7 +4600,7 @@
 			)
 		)
 		(instances
-			(project "NCV8200HV"
+			(project "NixiePS2"
 				(path "/73fbe87f-3928-49c2-bf87-839d907c6aef"
 					(reference "FID1")
 					(unit 1)
@@ -4676,7 +4676,7 @@
 			(uuid "17feb474-a5b2-4022-bb6c-0ebf2ba3a984")
 		)
 		(instances
-			(project "NCV8200HV"
+			(project "NixiePS2"
 				(path "/73fbe87f-3928-49c2-bf87-839d907c6aef"
 					(reference "#FLG0101")
 					(unit 1)
@@ -4790,7 +4790,7 @@
 			(uuid "7502501a-61aa-48b6-b837-2d8f78a62657")
 		)
 		(instances
-			(project "NCV8200HV"
+			(project "NixiePS2"
 				(path "/73fbe87f-3928-49c2-bf87-839d907c6aef"
 					(reference "Q1")
 					(unit 1)
@@ -4866,7 +4866,7 @@
 			(uuid "27f55106-e889-4de6-9fea-49a18eaf44f4")
 		)
 		(instances
-			(project "NCV8200HV"
+			(project "NixiePS2"
 				(path "/73fbe87f-3928-49c2-bf87-839d907c6aef"
 					(reference "#PWR0113")
 					(unit 1)
@@ -4950,7 +4950,7 @@
 			(uuid "6cc1eb85-52a2-457e-ae13-ae5ad05d9b68")
 		)
 		(instances
-			(project "NCV8200HV"
+			(project "NixiePS2"
 				(path "/73fbe87f-3928-49c2-bf87-839d907c6aef"
 					(reference "J2")
 					(unit 1)
@@ -5041,7 +5041,7 @@
 			(uuid "d89dff69-d775-4e0e-b6ff-34d2047fbf43")
 		)
 		(instances
-			(project "NCV8200HV"
+			(project "NixiePS2"
 				(path "/73fbe87f-3928-49c2-bf87-839d907c6aef"
 					(reference "C1")
 					(unit 1)
@@ -5142,7 +5142,7 @@
 			(uuid "2771bb18-cf78-4f2d-b277-15a4412a42bd")
 		)
 		(instances
-			(project "NCV8200HV"
+			(project "NixiePS2"
 				(path "/73fbe87f-3928-49c2-bf87-839d907c6aef"
 					(reference "U3")
 					(unit 1)
@@ -5217,7 +5217,7 @@
 			)
 		)
 		(instances
-			(project "NCV8200HV"
+			(project "NixiePS2"
 				(path "/73fbe87f-3928-49c2-bf87-839d907c6aef"
 					(reference "FID2")
 					(unit 1)
@@ -5305,7 +5305,7 @@
 			(uuid "3780bcaa-78e9-41eb-b9b4-2bb9ffbf44c9")
 		)
 		(instances
-			(project "NCV8200HV"
+			(project "NixiePS2"
 				(path "/73fbe87f-3928-49c2-bf87-839d907c6aef"
 					(reference "T1")
 					(unit 1)
