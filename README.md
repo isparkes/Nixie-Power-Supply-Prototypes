@@ -1,11 +1,14 @@
-# NCV8200HV — Nixie HV Supply
+# Nixie HV Supply
 
 KiCad projects for a small 5 V → ~170 V switching supply, sized to drop onto a nixie
 clock board. Two layouts of the same circuit are kept here side by side.
 
 > **Provenance:** I make no claims to these designs. I found them online and redrew them
 > in KiCad so I could build them. No license, no copyright — do whatever you like with
-> the files in this repo.
+> the files in this repo. Recently there have been problems finding a supplier for the 
+> transformer used, the original sourse was Tokyo Coil if I remember correctly, but in 
+> recent times, the price of these parts has become unpredeictable. Perhaps there is a 
+> better shource now.
 
 ## Contents
 
