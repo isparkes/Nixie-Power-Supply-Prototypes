@@ -10,6 +10,13 @@ clock board. Two layouts of the same circuit are kept here side by side.
 > recent times, the price of these parts has become unpredeictable. Perhaps there is a 
 > better shource now.
 
+Due to the suuply chain problems, I eventually settled on this design for my clocks:
+
+https://github.com/isparkes/HVPS_SMD
+
+which uses a custom wound transformer and provides good results for a low price.
+
+
 ## Contents
 
 | Folder | Project | Notes |
